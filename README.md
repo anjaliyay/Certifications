@@ -1,1 +1,3 @@
 # Certifications
+
+The *Python for Data Science, AI & Development certification* from *IBM* on Coursera is designed to equip learners with essential Python programming skills for data science, artificial intelligence, and software development. This course covers fundamental Python concepts, including data structures, functions, and libraries like Pandas, NumPy, and Matplotlib, enabling learners to analyze and visualize data effectively. It also introduces key AI and machine learning concepts, providing hands-on experience with Jupyter Notebooks and real-world datasets. Ideal for beginners and professionals, this certification helps individuals build a strong foundation in Python, preparing them for careers in data science, AI, and software development.
